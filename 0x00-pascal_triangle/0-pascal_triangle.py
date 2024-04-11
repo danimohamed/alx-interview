@@ -15,4 +15,4 @@ def pascal_triangle(n):
         row.append(1)
         pascal.append(row)
 
-    return pascal
+    return pascalcommi
